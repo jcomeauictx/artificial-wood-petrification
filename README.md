@@ -1,1 +1,3 @@
 # Artificial petrification of wood
+
+[One such process was developed at Pacific Northwest National Laboratory about a decade ago. It involves soaking a section of wood in hydrochloric acid for two days and then in either a silica or titanium solution for another two days. After air-drying, the wood is placed in an argon gas filled furnace and slowly heated to 1400° Celsius over a period of two hours. It is then left to cool to room temperature in the argon gas. What results is a block of ceramic silicon carbide or titanium carbide.](https://awkwardbotany.com/2015/07/01/how-to-make-petrified-wood/)
